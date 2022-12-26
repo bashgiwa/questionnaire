@@ -1,0 +1,46 @@
+.background {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.group {
+  display: flex;
+  background-color: rgb(205, 213, 216);
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  min-height: 200px;
+  min-width: 700px;
+}
+
+.qdisplay {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  min-height: 100px;
+  min-width: 700px;
+}
+
+.answeroptions {
+  list-style: circle inside none;
+}
+
+.enter {
+  width: 500px;
+}
+
+.submit {
+  margin-left: 15px;
+}
